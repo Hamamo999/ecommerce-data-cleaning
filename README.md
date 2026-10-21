@@ -13,6 +13,11 @@ The objective was to reconcile distorted revenues, remediate anomalies without b
 * **Revenue Protection:** Imputed structured Guest IDs (`Guest_<InvoiceNo>`) for 132k+ missing customer records, preserving **£1.47M in revenue (15.08% of total gross sales)**.
 * **Inventory vs Returns:** Separated official customer cancellations (£-894K refunds tagged via `Is_Cancelled`) from 1,336 warehouse damage write-offs.
 * **Reconciled Net Sales:** Successfully balanced net commercial revenue to **£9,748,131.07**.
+---
+
+## 📈 Executive Visual Insights & Financial Audit
+
+![E-Commerce Data Audit & Executive Visual Insights](charts.png)
 
 ---
 
